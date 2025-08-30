@@ -276,18 +276,3 @@ The key insight is that not all uncovered elements are equally important - those
 10. **Williamson, D. P., & Shmoys, D. B.** (2011). *The Design of Approximation Algorithms*. Cambridge University Press.
 
 ---
-
-**Author Information**
-
-[Author Name]  
-Department of Computer Science  
-[Institution Name]  
-Email: [email]
-
-**Acknowledgments**
-
-The authors thank [acknowledgments] for valuable discussions and feedback. This work was supported in part by [funding sources].
-
-**Appendix: Algorithm Implementation Details**
-
-Complete pseudocode and implementation details are available in the supplementary materials. Source code for all experiments is publicly available at [repository URL].
